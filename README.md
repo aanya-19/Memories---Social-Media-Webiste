@@ -8,6 +8,7 @@ Features Include -
 3. Like a post
 4. Post Details (showing recommended post & comments on posts)
 5. Search by Tags or Titles
+6. Pagination Concept
 
 FEATURES:-
 
