@@ -14,8 +14,6 @@ SIGNIN - SIGNUP
 <img width="1297" height="754" alt="image" src="https://github.com/user-attachments/assets/5e0899df-8e76-4f7f-9295-03d39bb845e9" />
 <img width="1341" height="706" alt="image" src="https://github.com/user-attachments/assets/f0cec65e-afbe-429d-9623-473fb7461080" />
 
-CREATE AND DELETE A MEMORY
-
 POST DETAILS (With receommended posts & comments)
 <img width="1126" height="773" alt="image" src="https://github.com/user-attachments/assets/f2741484-0ad5-4f1c-a09b-8d1d8c8df7fd" />
 
