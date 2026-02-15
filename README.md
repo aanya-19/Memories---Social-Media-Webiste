@@ -3,7 +3,7 @@ MEMORIES - SOCIAL MEDIA WEBSITE
 <img width="1361" height="752" alt="image" src="https://github.com/user-attachments/assets/47694ee0-abcb-42cf-9a0d-e294744d85d0" />
 
 Features Include -
-1. CRUD Functionality
+1. CRUD Functionality with image upload option
 2. Auth
 3. Like a post
 4. Post Details (showing recommended post & comments on posts)
